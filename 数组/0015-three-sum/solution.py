@@ -1,14 +1,14 @@
 # 15. 三数之和
 # - 难度：中等
-# - 标签：数组，哈希表，反向双指标
+# - 标签：数组，反向双指标
 # - 题目链接：https://leetcode.cn/problem-list/array/
 
 # 思路
 # 1. 暴力：时间O(n^3)，空间O(1)
-# 2. 反向双指针：时间O(n^2)，空间O(n)
-# 先固定第一个值，然后使用两数之和（有序/无序）算法
+# 2. 反向双指针：时间O(n^2)，空间O(n)/O(1))
+# 先固定第一个值，然后使用两数之和（有序）算法
 
-# 代码1：反向双指针（先排序）
+# 代码：反向双指针
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         # 注意：答案中不可以包含重复的三元组。
@@ -45,6 +45,3 @@ class Solution:
                 else: # nums[j] + nums[k] > target:
                     k -= 1
         return ans
-
-  # 代码2：哈希表（无须排序）
-  
