@@ -1,4 +1,4 @@
-# 1. 两数之和II - 输入有序数组
+# 167. 两数之和II - 输入有序数组
 # - 难度：中等
 # - 标签：双指标
 # - 题目链接：https://leetcode.cn/problem-list/array/
