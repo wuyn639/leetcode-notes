@@ -1,6 +1,6 @@
 # 1. 两数之和
 # - 难度：简单
-# - 标签：数组、哈希表
+# - 标签：数组，哈希表
 # - 题目链接：https://leetcode.cn/problem-list/array/
 
 # 思路
