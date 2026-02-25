@@ -2,7 +2,9 @@
 
 ## 学习内容及方法
 ### 灵茶山艾府
-按照完整算法题单顺序依次刷不同专题，第一次刷一个专题前，先看对应的基础算法精讲，专题结束后刷高质量题解精选。
+- 按照完整算法题单顺序依次刷不同专题，第一次刷一个专题前，先看对应的基础算法精讲，专题结束后刷高质量题解精选。
+- 先完成难度分≤1700的题目。把各个题单、各个知识点的基础题刷一遍，再刷更难的题目。
+  
 1. [完整算法题单](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)
 2. [基础算法精讲](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
 3. [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
