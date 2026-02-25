@@ -4,8 +4,8 @@
 # - 题目链接：https://leetcode.cn/problem-list/array/
 
 # 思路
-# 1. 暴力：O(n^2)
-# 2. 哈希表：O(n)
+# 1. 暴力：时间O(n^2)，空间O(1)
+# 2. 哈希表：时间O(n)，空间O(n)
 
 # 代码
 class Solution:
