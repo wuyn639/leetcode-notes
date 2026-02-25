@@ -15,7 +15,7 @@
 - 2nd month:
 - 3rd month
 
-## solution.py模板
+## 脚本模板
 15. 三数之和
 - 难度：中等
 - 专题：双指针
