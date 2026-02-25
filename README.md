@@ -1,7 +1,13 @@
 # LeetCode 刷题笔记
 
+## 学习内容
+1. [完整算法题单](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)
+2. [基础算法精讲](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
+3. [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
+
 ## 刷题进度
-- 1st month: 6/150
+- 1st month: 4/150
+  - [滑动窗口和双指针](https://leetcode.cn/discuss/post/3578981/ti-dan-hua-dong-chuang-kou-ding-chang-bu-rzz7/)
 - 2nd month:
 - 3rd month
 
